@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently writing this README :D
+
 <!--
 **A-G-D/A-G-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

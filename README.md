@@ -14,7 +14,7 @@
 ### About Me
 
 - I'm a Mechanical Engineer who aims to enter the Tech industry
-- I love Frontend Web Development and also learning Full Stack Web Development
+- I love Frontend Web Development and am also learning Full Stack Web Development
 - I love using my technical skills for artistic endeavors
 - I love coding in general
 

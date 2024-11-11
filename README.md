@@ -4,18 +4,14 @@
     <a href="https://www.linkedin.com/in/aloever-dulay-249226159">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/__a_g_d__">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=A-G-D&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### About Me
 
-- I'm a Mechanical Engineer working in the Tech industry
-- I love Frontend Web Development and am also learning Full Stack Web Development
-- I love using my technical skills for artistic endeavors
+- I'm a Mechanical Engineer working in the Software industry
+- I would love to be able to use my technical skills for artistic endeavors
 - I love coding in general
 
 ### Tech Stack
